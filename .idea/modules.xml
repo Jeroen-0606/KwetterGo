@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KwetterGo.iml" filepath="$PROJECT_DIR$/KwetterGo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/KwetterGo.iml" filepath="$PROJECT_DIR$/.idea/KwetterGo.iml" />
     </modules>
   </component>
 </project>
