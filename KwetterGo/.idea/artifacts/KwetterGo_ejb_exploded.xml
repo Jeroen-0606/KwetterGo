@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="KwetterGo:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/KwetterGo_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="KwetterGo/ejb/EJB" />
+      <element id="module-output" name="KwetterGo" />
+    </root>
+  </artifact>
+</component>
